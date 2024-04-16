@@ -1,0 +1,214 @@
+body,
+html {
+    margin: 0;
+    background-color: #36393f;
+}
+
+.breaking-line-1 {
+    margin-left: 6%;
+    margin-right: 6%;
+
+    height: 1pc;
+    border-color: #7289da;
+    background-color: #7289da;
+    border-radius: 15px;
+}
+
+.dis-header {
+    background-color: #7289da;
+    padding: 1%;
+}
+
+.dis-logo-head {
+    color: #f0f2f5;
+
+}
+
+.dis-text-head {
+    color: #f0f2f5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    margin-left: 5px;
+
+}
+
+.dis-nav-but-link {
+    color: #f0f2f5;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-left: 87%;
+
+}
+
+.dis-main-aboutus {
+    color: #f0f2f5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-left: 6%;
+    font-weight: bold;
+}
+
+.our-mission {
+    color: #f0f2f5;
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin-left: 6%;
+}
+
+.dis-mission {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.dis-mission-txt {
+    font-size: 19px;
+    padding-right: 60%
+}
+
+.what-we-do-main {
+    color: #f0f2f5;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 6%;
+}
+
+.dis-whatwedo {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.dis-whatwedo-maintxt {
+    font-size: 19px;
+    padding-right: 60%
+
+}
+.dis-story {
+    color: #f0f2f5;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 6%;
+
+}
+.dis-story-title {
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.dis-story-txt {
+    flex: 1;
+    font-size: 19px;
+    padding-right: 19%;
+    color: #f0f2f5;
+    margin-top:2%;
+    
+}
+.dis-story-content {
+    display: flex;
+    
+}
+.dis-story-img1 {
+    width: 46% !important;
+    height: 56% !important;
+    border-radius: 50%;
+    
+    border: #f0f2f5 4px solid;
+}
+.dis-story-img2 {
+    width: 46%;
+    height: 46%;
+    border-radius: 50%;
+    
+    
+
+    border: #f0f2f5 4px solid;
+}
+.dis-ceos-txt {
+    font-size:30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 11%;
+    
+}
+.dis-ceos{
+    align-items: center;
+    
+}
+.dis-ceos-imgs {
+    border: 5px solid #7289da;
+    border-radius: 15px;
+    padding:5%;
+    margin-right:60%;
+}
+.dis-footer {
+    background-color: #7289da;
+    padding: 13px;
+    margin-top:5%;
+
+}
+.dis-footer-txt {
+    color: #f0f2f5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-left:3%;
+    
+
+}
+.dis-wumpus-content {
+    border:#7289da 5px solid;
+    border-radius: 15px;
+    margin-right:55%;
+    margin-left: 15%;
+    padding:1%;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.dis-wumpus-title{
+    
+    font-size:35px;
+    margin-right:50%;
+    margin-left:16%;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.dis-wumpus {
+    color: #f0f2f5;
+}
+.wumpus-is,.dis-whowumpus{
+    font-family:Arial, Helvetica, sans-serif ;
+    color:#f0f2f5 ;
+}
+.dis-whowumpus{
+    font-size:30px;
+    font-weight: bold;
+}
+.wumpus-is{
+    font-size:19px;
+    margin-right:35%;
+}
+
+.who-wumpus {
+    margin-left: 6%;
+
+}
+.wumpus-img {
+    width: 40%;
+    height: 40%;
+    border-radius: 50%;
+    border: #f0f2f5 4px solid;
+}
+.dis-story-img {
+    width: 40%; 
+    margin-left: 2%; 
+}
+::-webkit-scrollbar {
+    width: 10px; 
+    border-radius: 15px; 
+  }
+  
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #7289da; 
+    border-radius: 15px; 
+  }
+  
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #4e5d94; 
+  }
